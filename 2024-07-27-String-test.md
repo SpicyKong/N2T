@@ -1,4 +1,6 @@
 한글 잘 되는지 테승트
+
+
 U+1F600 ; 1.0 # 😀 grinning face
 U+1F603 ; 0.6 # 😃 grinning face with big eyes
 U+1F604 ; 0.6 # 😄 grinning face with smiling eyes
